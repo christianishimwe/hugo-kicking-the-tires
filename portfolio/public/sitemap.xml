@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50773/</loc>
+    <loc>http://localhost:50247/</loc>
+    <lastmod>2025-02-07T00:03:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50247/contact/</loc>
+    <lastmod>2025-02-07T00:03:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50247/resume/</loc>
+    <lastmod>2025-02-06T23:57:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50247/about/</loc>
     <lastmod>2025-02-06T23:01:53-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50773/about/</loc>
-    <lastmod>2025-02-06T23:01:53-05:00</lastmod>
+    <loc>http://localhost:50247/categories/</loc>
   </url><url>
-    <loc>http://localhost:50773/categories/</loc>
-  </url><url>
-    <loc>http://localhost:50773/tags/</loc>
+    <loc>http://localhost:50247/tags/</loc>
   </url>
 </urlset>
